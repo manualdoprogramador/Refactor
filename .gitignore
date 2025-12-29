@@ -1,0 +1,56 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+.history
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+/src/IdEver.Auth/IdEver.Auth/Properties
+/src/IdEver.Auth/IdEver.Auth/appsettings.Development.json
+/src/IdEver.Auth/IdEver.Auth/appsettings.json
+/src/IdEver.Auth/IdEver.Auth/tempkey.jwk
+/src/IdEver.AdminApi/appsettings.Development.json
+/src/IdEver.AdminApi/appsettings.json
+/src/IdEver.AdminApi/Properties
+/src/IdEver.AdminApi/config.local.json
+src/idEver.Api.IntegrationTests/config.local.json
+
+# customer management filters log for testing and debugging
+/src/IdEver.AdminApi/filtro.txt
+
+# Resultados dos testes de integração
+/src/idEver.Api.IntegrationTests/results/
+
+appsettings.Development.json
+appsettings.json
