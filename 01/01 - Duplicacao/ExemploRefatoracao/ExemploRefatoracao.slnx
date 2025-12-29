@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExemploRefatoracao/ExemploRefatoracao.csproj" />
+  <Project Path="UnitTest\UnitTest.csproj" Type="Classic C#" />
+</Solution>

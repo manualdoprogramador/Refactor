@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ExemploRefatoracao/ExemploRefatoracao.csproj" />
+  <Project Path="ExemploRefatoracaoTest/ExemploRefatoracaoTest.csproj" Id="f30df57f-1f47-4a14-9f93-6b952997c5f2" />
+</Solution>
